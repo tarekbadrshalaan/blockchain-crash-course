@@ -1,0 +1,16 @@
+{'ins': [
+        {'outpoint': {'hash': '4adc427d330497992710feaa32f85c389ef5106f74e7006878bd14b54500dfff',
+    'index': 0
+            },
+   'script': '483045022100b30d07d5851f5217ebcece48e0a5482ef0da1f4fea0eb549f34f69647717786f02201a11c6378237a52933a8bfc853049a0a28820b2e4f1be92fc6c0ad701182b0940141045f81956d5826bad7d30daed2b5c8c98e72046c1ec8323da336445476183fb7ca54ba511b8b782bc5085962412e8b9879496e3b60bebee7c36987d1d5848b9a50',
+   'sequence': 4294967295
+        }
+    ],
+ 'locktime': 0,
+ 'outs': [
+        {'script': '76a914409974e18f8a8bd70940a71124a46c8169089fa188ac',
+   'value': 100
+        }
+    ],
+ 'version': 1
+}
